@@ -18,6 +18,7 @@ const Navigation = () => {
         <a href="/" className="text-black text-xl">☆</a>
         <a href="/" className="text-black">Home</a>
         <a href="/page2" className="text-black">Page 2</a>
+        <a href="/page3" className="text-black">Page 3</a>
       </div>
       
       <div className="flex flex-col min-h-[calc(100vh-73px)] items-center justify-center">

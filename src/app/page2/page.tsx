@@ -30,6 +30,7 @@ const Navigation = () => {
         <a href="/" className="text-black text-xl">☆</a>
         <a href="/" className="text-black">Home</a>
         <a href="/page2" className="text-black">Page 2</a>
+        <a href="/page3" className="text-black">Page 3</a>
       </div>
       {/* Rectangle at the top */}
       <div className={`h-40 ${color === 'blue' ? 'bg-blue-600' : 
